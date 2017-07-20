@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date: 2017-07-20 13:02:34
+  city: MyString
+  host: MyString
+  state: MyString
+  user: one
+
+two:
+  name: MyString
+  date: 2017-07-20 13:02:34
+  city: MyString
+  host: MyString
+  state: MyString
+  user: two
